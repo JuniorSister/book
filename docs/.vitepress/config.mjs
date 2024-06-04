@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 
 export default defineConfig({
-  base:'/repo/',
+  base:'/vitePress-project/',
   title: "帅帅's Project",
   description: "简单、强大、快速。满足你一直想要的现代SSG框架",
   // 在 config.js 中引入全局样式文件
