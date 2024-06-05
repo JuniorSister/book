@@ -4,9 +4,9 @@ layout: home
 
 
 hero:
-  name: VitePress
-  text: "快速上手中文教程"
-  tagline: 如果你也想搭建它，那跟我一起做吧
+  name: pipi
+  text: "我是皮皮大魔王"
+  tagline: 炸屁姐赏个响屁给你吃
   image:
     src: /logo.svg
     alt: VitePress
