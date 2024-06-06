@@ -1,6 +1,14 @@
-<script setup>
-</script>
-
 <template>
-  自定义的组件代码
+  <div class="">
+    远方
+  </div>
 </template>
+
+<script>
+export default {
+
+}
+</script>
+<style scoped lang='less'>
+
+</style>

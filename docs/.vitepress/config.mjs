@@ -1,22 +1,18 @@
 import { defineConfig } from "vitepress";
 
-
 export default defineConfig({
   base: "/book/",
-  title: "帅帅's Project",
+  title: "帅帅's 个人博客",
   description: "简单、强大、快速。满足你一直想要的现代SSG框架",
   // 在 config.js 中引入全局样式文件
-
-  
-
 
   themeConfig: {
     logo: "/logo.svg",
     nav: [
       { text: "主页", link: "/" },
       { text: "案例", link: "/markdown-examples" },
-      { text: "案例1", link: "/theme/components/Mycomponent" },
-      { text: "VitePress", link: "https://vitepress.yiov.top/page.html#logo" },
+      { text: "小米su7", link: "/theme/components/Mycomponent" },
+      // { text: "VitePress", link: "https://vitepress.yiov.top/page.html#logo" },
     ],
     
 
@@ -124,5 +120,5 @@ export default defineConfig({
     },
   },
 
-  
+  assetsInclude: ["**/*.glb"],
 });

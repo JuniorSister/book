@@ -5,8 +5,8 @@ layout: home
 
 hero:
   name: pipi
-  text: "我是皮皮大魔王"
-  tagline: 炸屁姐赏个响屁给你吃
+  text: "个人项目案例演示"
+  tagline: 版本1.0
   image:
     src: /logo.svg
     alt: VitePress

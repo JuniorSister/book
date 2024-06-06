@@ -6,7 +6,13 @@
   },
   "devDependencies": {
     "less": "^4.2.0",
+    "vite-plugin-require-transform": "^1.0.21",
     "vitepress": "^1.2.3",
     "vue": "^3.4.27"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^18.6.4",
+    "lil-gui": "^0.19.2",
+    "three": "^0.165.0"
   }
 }
